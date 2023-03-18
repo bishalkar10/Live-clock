@@ -30,35 +30,83 @@ body {
   position: absolute;
   font-size: 1.5rem;
 }
+
+.inside {
+  transform: rotate(var(--rotation));
+}
+
+.a-num1 {
+  --rotation: -30deg;
+}
 .clock .number1 {
   --rotation: 30deg;
+}
+
+.a-num2 {
+  --rotation: -60deg;
 }
 .clock .number2 {
   --rotation: 60deg;
 }
+
+.a-num3 {
+  --rotation: -90deg;
+}
 .clock .number3 {
   --rotation: 90deg;
+}
+
+.a-num4 {
+  --rotation: -120deg;
 }
 .clock .number4 {
   --rotation: 120deg;
 }
+
+.a-num5 {
+  --rotation: -150deg;
+}
 .clock .number5 {
   --rotation: 150deg;
+}
+
+.a-num6 {
+  --rotation: -180deg;
 }
 .clock .number6 {
   --rotation: 180deg;
 }
+
+.a-num7 {
+  --rotation: -210deg;
+}
 .clock .number7 {
   --rotation: 210deg;
+}
+
+.a-num8 {
+  --rotation: -240deg;
 }
 .clock .number8 {
   --rotation: 240deg;
 }
+
+.a-num9 {
+  --rotation: -270deg;
+}
 .clock .number9 {
   --rotation: 270deg;
 }
+
+.a-num10 {
+  --rotation: -300deg;
+}
 .clock .number10 {
   --rotation: 300deg;
+}
+
+.a-num11 {
+  --rotation: -330deg;
 }
 .clock .number11 {
   --rotation: 330deg;
