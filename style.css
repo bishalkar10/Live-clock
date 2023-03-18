@@ -154,3 +154,11 @@ body {
   height: 40%;
   background-color: red;
 }
+
+.clock-brand {
+  position: absolute;
+  bottom: 22%;
+  left: 30%;
+  font-size: large;
+  font-weight: 800;
+}
